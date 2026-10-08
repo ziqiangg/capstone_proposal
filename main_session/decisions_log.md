@@ -36,3 +36,5 @@
 | 32 | 2026-10-08 | State that LTA must meet the SSP controls? (reviewer G-2) | No. Use the reviewer's under-claim (IR-3) wording. The content brief's phrase "controls it must meet" is withdrawn | security_frameworks_findings_1.md:40; precedence rung 7 |
 | 33 | 2026-10-08 | Ordering group authors (reviewer R-1) | Follow APA 7: alphabetise by the first significant word, ignoring "The" | APA 7 |
 | 34 | 2026-10-08 | Annex fixes (reviewer A-1 to A-4) | Apply all four. A-2: add the product-name glossary rows. A-3: match the final body's definition of test bench | Reviewer findings |
+| 35 | 2026-10-08 | Can the arXiv DOI for Inan et al. be cited? (drafter, draft 2 Q1) | Yes. A WebSearch for 10.48550/arXiv.2312.06674 resolved to the Llama Guard paper (arxiv.org/abs/2312.06674) | Verified (#1 method) |
+| 36 | 2026-10-08 | Glossary sync with draft 2 (drafter Q2) | annex-builder drops the GenAI row and copies the test bench and Briefing definitions verbatim from the draft 2 "Terms used" list into annex_4.md | Consistency |

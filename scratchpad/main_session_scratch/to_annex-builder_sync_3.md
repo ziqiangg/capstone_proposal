@@ -1,0 +1,1 @@
+Write annex_4.md. Apply decision #36: drop the GenAI glossary row, and copy the test bench and Briefing definitions verbatim from the '## Terms used' list in scratchpad/formb-drafter_scratch/formb_draft_2.md. Nothing else changes.
