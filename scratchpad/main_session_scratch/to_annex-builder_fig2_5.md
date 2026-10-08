@@ -1,0 +1,1 @@
+Re-render scratchpad/annex-builder_scratch/figures/figure2_beacon_pipeline.png so that 'development'/'developments' reads 'event'/'events' (decision #40). Keep exactly the same pixel dimensions and layout, and view the result. Change nothing else.
