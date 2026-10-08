@@ -1,0 +1,1 @@
+Verified via WebSearch. Publisher: Government Technology Agency (GovTech), ICT&SS Policy Reform, also called the IM8 Reform. Keep IM8 only as "also known as the IM8 Reform". ATLAS is at atlas.mitre.org, per MITRE's fact sheet. The OSCAL wording "may adopt" is accepted. No further work is needed; the drafter takes over. See main_session/decisions_log.md #1–3.
