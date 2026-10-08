@@ -1,0 +1,23 @@
+{
+  "extraKnownMarketplaces": {
+    "obsidian-skills": {
+      "source": { "source": "github", "repo": "kepano/obsidian-skills" }
+    },
+    "anthropic-agent-skills": {
+      "source": { "source": "github", "repo": "anthropics/skills" }
+    }
+  },
+  "enabledPlugins": {
+    "obsidian@obsidian-skills": true,
+    "document-skills@anthropic-agent-skills": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR\"/.claude/hooks/session-start.sh" }
+        ]
+      }
+    ]
+  }
+}
