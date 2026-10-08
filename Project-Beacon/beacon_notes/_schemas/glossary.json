@@ -1,0 +1,14 @@
+{
+  "folder": "requirements",
+  "id_pattern": "A[0-9]?-[a-z]+",
+  "note": "The owner's annexes. Changed only by `apply` of an accepted proposal or by the owner's `require` of a new annex. A requirement names a parameter or a term and never spells out its meaning or its number; this is where the name is defined, so the requirement corpus can be read on its own. A value an actor sets while BEACON is running is not here, nor in a parameter note, which holds its bounds, unit, default and owner, never the current value.",
+  "required": [
+    "id",
+    "type",
+    "title"
+  ],
+  "states": {
+    "current": []
+  },
+  "terminal": []
+}

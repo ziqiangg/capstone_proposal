@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dss-high",
+    "name": "Digital Services (High Impact)",
+    "description": "Digital Service (also known as Government Digital Service) refers to any public service that is delivered digitally. It is used to convey the Government’s position, provide information, and/or deliver services to the public.\n\nDigital Services (High impact) refer to Digital services with at least 1 million visits per year (note: this will be determined based on WOGAA statistics).",
+    "securitySensitivity": "NA",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "dss-others",
+    "name": "Digital Services (Others)",
+    "description": "Digital Service (also known as Government Digital Service) refers to any public service that is delivered digitally. It is used to convey the Government’s position, provide information, and/or deliver services to the public.\n\nDigital Services (Others) refer to Digital services with less than 1 million visits per year (note: this will be determined based on WOGAA statistics).",
+    "securitySensitivity": "NA",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "gen-ai",
+    "name": "Generative AI",
+    "description": "The Generative AI System Security Plan template includes Level 0 and Level 1 baseline controls that are recommended as the default controls for systems that utilise generative AI models. Agencies may customise this template to create their own system-specific System Security Plan or use it as a default System Security Plan for generic Generative AI systems.",
+    "securitySensitivity": "Up to Confidential, Sensitive High",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "high-risk-cloud",
+    "name": "High-Risk Cloud CII",
+    "description": "The High-Risk Cloud CII System Security Plan template includes Level 0 and Level 1 baseline controls that are recommended as the default controls for high-risk cloud CII systems. Agencies are to customise this template to create their own system-specific System Security Plan or use it as a default System Security Plan. CII Owners are reminded to inform Cybersecurity Agency Singapore (CSA) prior to the migration to Cloud and the creation of an High-Risk Cloud CII SSP.",
+    "securitySensitivity": "Confidential, Sensitive High",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "low-risk-cloud",
+    "name": "Low-Risk Cloud",
+    "description": "The Low-Risk Cloud System Security Plan template includes Level 0 and Level 1 baseline controls that are recommended as the default controls for low-risk cloud systems. Agencies are to customise this template to create their own system-specific System Security Plan or use it as a default System Security Plan.",
+    "securitySensitivity": "Up to Restricted, Sensitive Normal",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "low-risk-on-premises",
+    "name": "Low-Risk On Premises",
+    "description": "The Low-Risk On-Premises System Security Plan template includes Level 0 and Level 1 baseline controls that are recommended as the default controls for low-risk on-premises systems. Agencies are to customise this template to create their own system-specific System Security Plan or use it as a default System Security Plan.",
+    "securitySensitivity": "Up to Restricted, Sensitive Normal",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "medium-risk-cloud",
+    "name": "Medium-Risk Cloud",
+    "description": "The Medium-Risk Cloud System Security Plan template includes Level 0 and Level 1 baseline controls that are recommended as the default controls for medium-risk cloud systems. Agencies are to customise this template to create their own system-specific System Security Plan or use it as a default System Security Plan.",
+    "securitySensitivity": "Confidential, Sensitive High",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "sandbox",
+    "name": "Sandbox",
+    "description": "Pilot Sandbox System Security Plan.",
+    "securitySensitivity": "Restricted, Sensitive Normal",
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  }
+]

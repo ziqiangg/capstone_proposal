@@ -1,0 +1,30 @@
+filters:
+  and:
+    - type == "parameter"
+    - '!file.inFolder("_templates")'
+formulas:
+  referenced_by: file.backlinks.filter(value.asFile().folder == "requirements")
+properties:
+  formula.referenced_by:
+    displayName: Referenced by
+views:
+  - type: table
+    name: Parameters
+    filters:
+      and:
+        - status != "removed"
+    order:
+      - file.name
+      - bounds
+      - unit
+      - default
+      - owner
+      - formula.referenced_by
+  - type: table
+    name: Removed
+    filters:
+      and:
+        - status == "removed"
+    order:
+      - file.name
+      - removed_because

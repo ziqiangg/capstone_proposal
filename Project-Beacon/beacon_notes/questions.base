@@ -1,0 +1,50 @@
+filters:
+  and:
+    - type == "question"
+    - '!file.inFolder("_templates")'
+formulas:
+  blocking: if(blocks, blocks.length, 0)
+properties:
+  formula.blocking:
+    displayName: Blocks
+  component:
+    displayName: Component
+views:
+  - type: table
+    name: Open by component
+    filters:
+      and:
+        - status == "open"
+    groupBy:
+      property: component
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - priority
+      - formula.blocking
+      - blocks
+  - type: table
+    name: Open by priority
+    filters:
+      and:
+        - status == "open"
+    groupBy:
+      property: priority
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - component
+      - formula.blocking
+      - basis
+  - type: table
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - component
+      - priority

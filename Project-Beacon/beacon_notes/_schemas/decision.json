@@ -1,0 +1,29 @@
+{
+  "folder": "decisions",
+  "id_pattern": "D-\\d{3}",
+  "id_prefix": "D-",
+  "id_width": 3,
+  "note": "`superseded` and `withdrawn` are terminal for liveness: a live note may not cite one (R11), and a successor must be live (R6). They are not final: `decide` may reinstate a superseded or withdrawn decision to `accepted`.",
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "requirements",
+    "architecture",
+    "basis"
+  ],
+  "states": {
+    "accepted": [],
+    "superseded": [
+      "superseded_by"
+    ],
+    "withdrawn": [
+      "withdrawn_because"
+    ]
+  },
+  "terminal": [
+    "superseded",
+    "withdrawn"
+  ]
+}

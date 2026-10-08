@@ -1,0 +1,29 @@
+{
+  "folder": "architecture/components",
+  "id_pattern": "C-\\d{2}",
+  "id_prefix": "C-",
+  "id_width": 2,
+  "note": "`proposed` means no decomposition has exercised this boundary. `accepted` means its steps and its intra-component contracts are accepted.",
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "requirements",
+    "writes"
+  ],
+  "states": {
+    "proposed": [],
+    "accepted": [],
+    "superseded": [
+      "superseded_by"
+    ],
+    "removed": [
+      "removed_because"
+    ]
+  },
+  "terminal": [
+    "superseded",
+    "removed"
+  ]
+}

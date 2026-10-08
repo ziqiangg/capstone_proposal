@@ -1,0 +1,60 @@
+filters:
+  and:
+    - or:
+        - type == "requirement"
+        - type == "glossary"
+    - '!file.inFolder("_templates")'
+views:
+  - type: table
+    name: By group
+    filters:
+      and:
+        - type == "requirement"
+        - status != "removed"
+    groupBy:
+      property: group
+      direction: ASC
+    order:
+      - file.name
+      - verification
+  - type: table
+    name: By method
+    filters:
+      and:
+        - type == "requirement"
+        - status != "removed"
+    groupBy:
+      property: verification
+      direction: ASC
+    order:
+      - file.name
+      - group
+  - type: table
+    name: Without verification
+    filters:
+      and:
+        - type == "requirement"
+        - status != "removed"
+        - verification == "none"
+    groupBy:
+      property: group
+      direction: ASC
+    order:
+      - file.name
+  - type: table
+    name: Removed
+    filters:
+      and:
+        - status == "removed"
+    order:
+      - file.name
+      - group
+      - removed_because
+  - type: table
+    name: Annexes
+    filters:
+      and:
+        - type == "glossary"
+    order:
+      - file.name
+      - title

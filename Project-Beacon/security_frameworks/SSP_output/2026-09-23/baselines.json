@@ -1,0 +1,5490 @@
+[
+  {
+    "systemType": "dss-high",
+    "controlId": "UU-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "UU-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "BD-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TX-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "PR-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TL-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TL-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TL-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TL-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TL-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "TL-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-16",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-17",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-18",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WP-19",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-16",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-17",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WO-18",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WU-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WR-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-high",
+    "controlId": "WR-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-high/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "UU-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "UU-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "BD-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TX-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "PR-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TL-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TL-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TL-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TL-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TL-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "TL-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-16",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-17",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-18",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WP-19",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-16",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-17",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WO-18",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WU-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WR-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "dss-others",
+    "controlId": "WR-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/dss-others/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "DP-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "gen-ai",
+    "controlId": "GA-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/gen-ai/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-7",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-8",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-11",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-12",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-14",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AS-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SC-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "ST-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "ST-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "ST-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "ST-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "ST-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-8",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "NS-11",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "BR-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "BR-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "BR-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "BR-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "BR-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "BR-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "DP-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "DP-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "DP-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "DP-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-7",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-8",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-9",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-12",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-13",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-16",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-17",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-19",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "LM-21",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "AC-16",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-9",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "PM-10",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-7",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-11",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "IS-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-8",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "SD-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CK-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CK-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CK-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "CK-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "HR-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "HR-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "HR-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "RS-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "RS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "high-risk-cloud",
+    "controlId": "RS-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/high-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AS-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SC-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "ST-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "ST-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "ST-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "ST-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "ST-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "NS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "BR-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "BR-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "BR-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "DP-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "DP-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "DP-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "DP-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-12",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-16",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-17",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "LM-19",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "AC-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "PM-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "PM-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "PM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "PM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "PM-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "PM-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-11",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "IS-14",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "SD-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CK-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-cloud",
+    "controlId": "CK-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AS-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SC-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "ST-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "ST-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "ST-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "ST-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "NS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "BR-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "BR-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "BR-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DP-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DP-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DP-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DP-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DP-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-12",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-16",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-17",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "LM-19",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "AC-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "PM-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "PM-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "PM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "PM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "PM-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "PM-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-11",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "IS-14",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "SD-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "DC-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "CK-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "low-risk-on-premises",
+    "controlId": "CK-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/low-risk-on-premises/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-7",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-8",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-11",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AS-15",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SC-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "ST-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "ST-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "ST-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "ST-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "ST-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "NS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "BR-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "BR-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "BR-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "DP-1",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "DP-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "DP-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "DP-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-9",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-12",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-16",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-17",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "LM-19",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-2",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-6",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "AC-14",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-8",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "PM-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "PM-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "PM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "PM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "PM-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "PM-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-9",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-10",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-11",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-12",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-13",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "IS-14",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-3",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-4",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-5",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-6",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-7",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "SD-8",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CK-1",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "medium-risk-cloud",
+    "controlId": "CK-2",
+    "profileLevel": 1,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/medium-risk-cloud/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AS-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SC-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "ST-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "ST-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "ST-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "ST-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "ST-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "NS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "BR-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "BR-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "BR-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "DP-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "DP-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "DP-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "DP-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-15",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-16",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-17",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "LM-19",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "AC-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "PM-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "PM-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "PM-3",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "PM-4",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "PM-5",
+    "profileLevel": 0,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "PM-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-9",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-10",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-11",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-12",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-13",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "IS-14",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-3",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-4",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-5",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-6",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-7",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "SD-8",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CK-1",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "systemType": "sandbox",
+    "controlId": "CK-2",
+    "profileLevel": 2,
+    "sourceUrl": "https://info.standards.tech.gov.sg/ssp/sandbox/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  }
+]

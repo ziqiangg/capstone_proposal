@@ -1,0 +1,40 @@
+{
+  "folder": "questions",
+  "id_pattern": "Q-\\d{3}",
+  "id_prefix": "Q-",
+  "id_width": 3,
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "component",
+    "priority",
+    "blocks",
+    "basis"
+  ],
+  "states": {
+    "open": [],
+    "answered": [
+      "answer"
+    ],
+    "superseded": [
+      "superseded_by"
+    ],
+    "dropped": [
+      "dropped_because"
+    ]
+  },
+  "terminal": [
+    "superseded",
+    "dropped"
+  ],
+  "values": {
+    "priority": [
+      "P0",
+      "P1",
+      "P2"
+    ]
+  },
+  "note": "One scalar field for the component that owns the question, empty when the question is repo-wide. Scalar because Bases groups by a scalar only, and grouping by architecture is how work is chosen. `blocks` stays a list and is never counted into a stored field: the view computes that. `component` is written bare, not as a wikilink -- the one cross-reference in the vault that is. Grouping by a link property is unproven and this is the field the whole ordering design rests on, so it is not the place to find out. Little is lost: a question that blocks its own component wikilinks it in `blocks`, so the component's backlink pane shows it anyway, and the grouped view is the route that matters."
+}

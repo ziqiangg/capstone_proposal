@@ -1,0 +1,31 @@
+{
+  "folder": "experiments",
+  "id_pattern": "X-\\d{3}",
+  "id_prefix": "X-",
+  "id_width": 3,
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "question",
+    "criterion",
+    "budget_minutes"
+  ],
+  "states": {
+    "designed": [],
+    "recorded": [
+      "result"
+    ],
+    "superseded": [
+      "superseded_by"
+    ],
+    "abandoned": [
+      "abandoned_because"
+    ]
+  },
+  "terminal": [
+    "superseded",
+    "abandoned"
+  ]
+}

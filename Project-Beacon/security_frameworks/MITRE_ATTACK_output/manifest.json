@@ -1,0 +1,62 @@
+{
+  "repo_url": "https://github.com/mitre-attack/attack-stix-data.git",
+  "git_commit": "6cda5ad8462c79e14fbb872f4e09059b18e0cfc4",
+  "pin": null,
+  "retrieved_at_utc": "2026-09-23T10:07:46.500825+00:00",
+  "domains": {
+    "enterprise": {
+      "file": "enterprise-attack.json",
+      "versioned_file": "19.2\\enterprise-attack.json",
+      "x_mitre_version": "19.2",
+      "sha256": "c0c463e0c303f62bd7442a80c8ee2f9ea5f19c8268c50f9dcfd36d78a8d18985",
+      "counts": {
+        "technique": 365,
+        "sub_technique": 493,
+        "x-mitre-tactic": 15,
+        "course-of-action": 268,
+        "intrusion-set": 191,
+        "malware_and_tool": 828,
+        "campaign": 56,
+        "x-mitre-data-source": 38,
+        "revoked": 157,
+        "deprecated": 289
+      }
+    },
+    "ics": {
+      "file": "ics-attack.json",
+      "versioned_file": "19.2\\ics-attack.json",
+      "x_mitre_version": "19.2",
+      "sha256": "659afaaa360a790bdc022a06ee7e11d703f881b89d21479022440d451a88ab3e",
+      "counts": {
+        "technique": 100,
+        "sub_technique": 18,
+        "x-mitre-tactic": 12,
+        "course-of-action": 52,
+        "intrusion-set": 16,
+        "malware_and_tool": 30,
+        "campaign": 9,
+        "x-mitre-data-source": 17,
+        "revoked": 11,
+        "deprecated": 37
+      }
+    },
+    "mobile": {
+      "file": "mobile-attack.json",
+      "versioned_file": "19.2\\mobile-attack.json",
+      "x_mitre_version": "19.2",
+      "sha256": "938a1ddedd8ef666be916fc598dcf365a3b204a6ec7975ed66e70818c7a24ec7",
+      "counts": {
+        "technique": 143,
+        "sub_technique": 47,
+        "x-mitre-tactic": 14,
+        "course-of-action": 15,
+        "intrusion-set": 22,
+        "malware_and_tool": 127,
+        "campaign": 3,
+        "x-mitre-data-source": 6,
+        "revoked": 55,
+        "deprecated": 25
+      }
+    }
+  }
+}

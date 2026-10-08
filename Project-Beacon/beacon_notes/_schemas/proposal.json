@@ -1,0 +1,44 @@
+{
+  "folder": "proposals",
+  "id_pattern": "CP-\\d{3}",
+  "id_prefix": "CP-",
+  "id_width": 3,
+  "note": "A change to the owner's requirements or annexes. Claude proposes; a fresh-context assessor records `assessment`, which reads exactly `coherent`, `coherent with gaps: <list>` or `incoherent: <why>`; the owner rules; Claude applies. Only a proposal assessed `coherent` may be accepted (commit_check refuses `rule` otherwise); one with gaps or incoherent is rejected, or reworked under `propose` and assessed again. `requirements` lists the rows, annexes and parameters it changes. A proposal that ADDS a row names its group in `adds_to`, and the row takes the next free number in that group unless the owner assigns one; one that adds a parameter puts `parameters` in `adds_to`. `adds_to` holds one group or a list of them, so one proposal may add a row and its parameter. Either or both of `requirements` and `adds_to` may be filled, and `one_of` requires at least one. `## The change` gives, per row, annex or parameter it changes, the text as it stands and the text it is replaced by, quoted exactly, and for one it adds the full note block: `apply` copies them verbatim. For one it removes, the two frontmatter lines `status: \"removed\"` and `removed_because`; each new row goes under its own placeholder (`GOV-n1`, `GOV-n2`), and a split keeps the row's id for its first part. method/commit-grammar.md says what an apply may carry. `applied` is terminal: a later change to the same row is a new proposal against the row as it now reads.",
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "reason"
+  ],
+  "states": {
+    "proposed": [],
+    "assessed": [
+      "assessment"
+    ],
+    "accepted": [
+      "assessment",
+      "approval"
+    ],
+    "applied": [
+      "assessment",
+      "approval"
+    ],
+    "rejected": [
+      "assessment",
+      "rejected_because"
+    ],
+    "withdrawn": [
+      "withdrawn_because"
+    ]
+  },
+  "terminal": [
+    "applied",
+    "rejected",
+    "withdrawn"
+  ],
+  "one_of": [
+    "requirements",
+    "adds_to"
+  ]
+}

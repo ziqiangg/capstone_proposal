@@ -1,0 +1,30 @@
+{
+  "folder": "requirements/parameters",
+  "id_pattern": "[A-Z][A-Z0-9]*(?:_[A-Z0-9]+)+",
+  "note": "A parameter is a named value that a requirement row states BEACON's behaviour against, and that an actor in A-terms A1 sets without any requirement text changing. `bounds` says what it bounds and its limits, `unit` its unit, `default` a value or `unset`, `owner` the A1 actor who sets it. A value fixed by design, or one no current row names, is not a parameter. Rows link it as [[NAME]]; Obsidian's backlinks say which rows reference it, so no note stores that. The owner's, like a row: changed only by `apply` of an accepted proposal; a new one may also arrive by the owner's `require`. Never deleted: `removed` keeps its name resolving.",
+  "required": [
+    "id",
+    "type",
+    "bounds",
+    "unit",
+    "default",
+    "owner"
+  ],
+  "states": {
+    "current": [],
+    "removed": [
+      "removed_because"
+    ]
+  },
+  "terminal": [
+    "removed"
+  ],
+  "values": {
+    "owner": [
+      "Reader",
+      "Curator",
+      "Operator",
+      "Administrator"
+    ]
+  }
+}

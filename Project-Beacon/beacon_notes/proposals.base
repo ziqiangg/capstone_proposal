@@ -1,0 +1,44 @@
+filters:
+  and:
+    - type == "proposal"
+    - '!file.inFolder("_templates")'
+views:
+  - type: table
+    name: Live, by status
+    filters:
+      and:
+        - status != "applied" && status != "rejected" && status != "withdrawn"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - requirements
+      - adds_to
+      - reason
+  - type: table
+    name: Waiting on the owner
+    filters:
+      and:
+        - status == "assessed"
+    order:
+      - file.name
+      - title
+      - requirements
+      - adds_to
+      - assessment
+  - type: table
+    name: Closed
+    filters:
+      or:
+        - status == "applied"
+        - status == "rejected"
+        - status == "withdrawn"
+    order:
+      - file.name
+      - title
+      - status
+      - approval
+      - rejected_because
+      - withdrawn_because

@@ -1,0 +1,36 @@
+{
+  "folder": "architecture/contracts",
+  "id_pattern": "K-\\d{3}",
+  "id_prefix": "K-",
+  "id_width": 3,
+  "note": "What crosses a step or component boundary. Claimed at both ends once accepted. The producer is a step. While `proposed`, a consumer may be a component not yet decomposed -- the far end of an inter-component contract, which no step can claim until that component has steps; once it has, the consumer is the step.",
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "producer",
+    "consumers",
+    "shape_status"
+  ],
+  "states": {
+    "proposed": [],
+    "accepted": [],
+    "superseded": [
+      "superseded_by"
+    ],
+    "removed": [
+      "removed_because"
+    ]
+  },
+  "terminal": [
+    "superseded",
+    "removed"
+  ],
+  "values": {
+    "shape_status": [
+      "undesigned",
+      "designed"
+    ]
+  }
+}

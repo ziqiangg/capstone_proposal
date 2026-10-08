@@ -1,0 +1,16 @@
+filters:
+  and:
+    - type == "experiment"
+    - '!file.inFolder("_templates")'
+views:
+  - type: table
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - question
+      - criterion
+      - budget_minutes

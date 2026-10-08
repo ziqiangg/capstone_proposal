@@ -1,0 +1,184 @@
+[
+  {
+    "id": "AC",
+    "catalog": "cybersecurity",
+    "name": "Access Control",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/ac/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "AS",
+    "catalog": "cybersecurity",
+    "name": "Application Security",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/as/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "BR",
+    "catalog": "cybersecurity",
+    "name": "Backup and Recovery",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/br/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "CK",
+    "catalog": "cybersecurity",
+    "name": "Cryptography, Encryption and Key Management",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/ck/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "CS",
+    "catalog": "cybersecurity",
+    "name": "Container Security",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/cs/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "DC",
+    "catalog": "cybersecurity",
+    "name": "Datacentre",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/dc/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "DP",
+    "catalog": "cybersecurity",
+    "name": "Data Protection",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/dp/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "GA",
+    "catalog": "cybersecurity",
+    "name": "Generative AI",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/ga/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "HR",
+    "catalog": "cybersecurity",
+    "name": "Human Resource",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/hr/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "IS",
+    "catalog": "cybersecurity",
+    "name": "Infrastructure Security",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/is/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "LM",
+    "catalog": "cybersecurity",
+    "name": "Logging and Monitoring",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/lm/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "NS",
+    "catalog": "cybersecurity",
+    "name": "Network Security",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/ns/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "PM",
+    "catalog": "cybersecurity",
+    "name": "Security Programme Management",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/pm/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "RS",
+    "catalog": "cybersecurity",
+    "name": "Resiliency",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/rs/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "SC",
+    "catalog": "cybersecurity",
+    "name": "Software Supply Chain",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/sc/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "SD",
+    "catalog": "cybersecurity",
+    "name": "Secure Development",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/sd/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "ST",
+    "catalog": "cybersecurity",
+    "name": "Security Testing",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/cybersecurity/st/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "BD",
+    "catalog": "dss",
+    "name": "Baseline Design Practices",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/bd/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "PR",
+    "catalog": "dss",
+    "name": "Performance and Reliability",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/pr/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "TL",
+    "catalog": "dss",
+    "name": "Trust and Legitimacy",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/tl/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "TX",
+    "catalog": "dss",
+    "name": "Transactions and Payments",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/tx/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "UU",
+    "catalog": "dss",
+    "name": "Understand Users",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/uu/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "WO",
+    "catalog": "dss",
+    "name": "WCAG : Operable",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/wo/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "WP",
+    "catalog": "dss",
+    "name": "WCAG : Perceivable",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/wp/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "WR",
+    "catalog": "dss",
+    "name": "WCAG : Robust",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/wr/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  },
+  {
+    "id": "WU",
+    "catalog": "dss",
+    "name": "WCAG : Understandable",
+    "sourceUrl": "https://info.standards.tech.gov.sg/control-catalog/dss/wu/",
+    "retrievedAt": "2026-09-23T10:18:08.073953+00:00"
+  }
+]

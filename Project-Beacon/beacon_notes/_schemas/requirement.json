@@ -1,0 +1,29 @@
+{
+  "folder": "requirements",
+  "id_pattern": "[A-Z]{3}-\\d{2}",
+  "note": "The owner's. Changed only by `apply` of an accepted proposal or, for a new row, the owner's `require`. A row names a parameter only as a link, [[NAME]]. `verification` names the method that shows the row is met -- inspection, analysis, demonstration or test -- or `none` while none is chosen; the body's **Verification.** line says how it is applied. A row is never deleted: `removed` keeps its id resolving and stops live notes citing it.",
+  "required": [
+    "id",
+    "type",
+    "group",
+    "verification"
+  ],
+  "states": {
+    "current": [],
+    "removed": [
+      "removed_because"
+    ]
+  },
+  "terminal": [
+    "removed"
+  ],
+  "values": {
+    "verification": [
+      "none",
+      "inspection",
+      "analysis",
+      "demonstration",
+      "test"
+    ]
+  }
+}

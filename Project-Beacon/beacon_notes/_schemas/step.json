@@ -1,0 +1,33 @@
+{
+  "folder": "architecture/steps",
+  "id_pattern": "S-\\d{3}",
+  "id_prefix": "S-",
+  "id_width": 3,
+  "note": "Created when its component is worked. Never seeded ahead of the work. `component` is written bare, not as a wikilink, for the reason question.json gives: architecture.base groups steps by it, and Bases groups by a scalar. The parser strips a wikilink either way, so nothing checks the form.",
+  "required": [
+    "id",
+    "type",
+    "title",
+    "status",
+    "component",
+    "requirements",
+    "expects",
+    "produces",
+    "decisions",
+    "questions"
+  ],
+  "states": {
+    "proposed": [],
+    "accepted": [],
+    "superseded": [
+      "superseded_by"
+    ],
+    "removed": [
+      "removed_because"
+    ]
+  },
+  "terminal": [
+    "superseded",
+    "removed"
+  ]
+}

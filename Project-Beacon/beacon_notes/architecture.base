@@ -1,0 +1,60 @@
+filters:
+  and:
+    - or:
+        - type == "component"
+        - type == "step"
+        - type == "contract"
+    - '!file.inFolder("_templates")'
+views:
+  - type: table
+    name: Components
+    filters:
+      and:
+        - type == "component"
+    order:
+      - file.name
+      - title
+      - status
+      - requirements
+      - writes
+  - type: table
+    name: Steps by component
+    filters:
+      and:
+        - type == "step"
+    groupBy:
+      property: component
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - status
+      - expects
+      - produces
+  - type: table
+    name: Contracts by shape
+    filters:
+      and:
+        - type == "contract"
+    groupBy:
+      property: shape_status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - producer
+      - consumers
+  - type: table
+    name: Contracts by producer
+    filters:
+      and:
+        - type == "contract"
+    groupBy:
+      property: producer
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - status
+      - consumers
+      - shape_status

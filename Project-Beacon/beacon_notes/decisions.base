@@ -1,0 +1,16 @@
+filters:
+  and:
+    - type == "decision"
+    - '!file.inFolder("_templates")'
+views:
+  - type: table
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - requirements
+      - architecture
+      - basis
