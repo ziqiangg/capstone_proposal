@@ -33,3 +33,6 @@
 | 29 | 2026-10-08 | Plain name for the benchtest report (drafter Q3) | "Test bench evaluation report" | Plain language |
 | 30 | 2026-10-08 | Third group for shared academic submissions (drafter Q4) | Accept, labelled "Academic submissions" | Keeps the two-workstream frame |
 | 31 | 2026-10-08 | Glossary and Annex A consistency (drafter Q5, routed to annex-builder) | (a) CYAD = Cyber Architecture & Development. (b) CI/CD = "continuous integration and continuous deployment" everywhere. (c) Drop the glossary entries the body does not use ("development", "LLM", "critical infrastructure"). (d) Annex A: "Test bench evaluation report", "Academic milestones". The drafter's "## Terms used" list is the glossary source | Consistency |
+| 32 | 2026-10-08 | State that LTA must meet the SSP controls? (reviewer G-2) | No. Use the reviewer's under-claim (IR-3) wording. The content brief's phrase "controls it must meet" is withdrawn | security_frameworks_findings_1.md:40; precedence rung 7 |
+| 33 | 2026-10-08 | Ordering group authors (reviewer R-1) | Follow APA 7: alphabetise by the first significant word, ignoring "The" | APA 7 |
+| 34 | 2026-10-08 | Annex fixes (reviewer A-1 to A-4) | Apply all four. A-2: add the product-name glossary rows. A-3: match the final body's definition of test bench | Reviewer findings |
