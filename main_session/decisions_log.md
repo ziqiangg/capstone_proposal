@@ -38,3 +38,4 @@
 | 34 | 2026-10-08 | Annex fixes (reviewer A-1 to A-4) | Apply all four. A-2: add the product-name glossary rows. A-3: match the final body's definition of test bench | Reviewer findings |
 | 35 | 2026-10-08 | Can the arXiv DOI for Inan et al. be cited? (drafter, draft 2 Q1) | Yes. A WebSearch for 10.48550/arXiv.2312.06674 resolved to the Llama Guard paper (arxiv.org/abs/2312.06674) | Verified (#1 method) |
 | 36 | 2026-10-08 | Glossary sync with draft 2 (drafter Q2) | annex-builder drops the GenAI row and copies the test bench and Briefing definitions verbatim from the draft 2 "Terms used" list into annex_4.md | Consistency |
+| 37 | 2026-10-08 | Annex A shows buffer active in Feb (reviewer round 2) | Fix it. Buffer and iteration are March only, in annex_5.md and the xlsx. Draft 2 passes and is final text; the drafter may also apply round-2 optional nits that do not change meaning or exceed the caps | CLAUDE.md timeline |

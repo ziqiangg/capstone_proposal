@@ -1,0 +1,1 @@
+Write annex_5.md. In Annex A, mark 'Buffer and iteration' active in Mar only, not Feb (decision #37). Check that the Gantt xlsx agrees, fix it if it does not, and re-run the recalculation check. Nothing else changes.
