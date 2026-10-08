@@ -8,11 +8,11 @@ wb=Workbook(); ws=wb.active; ws.title="Gantt"
 F="Arial"
 R="Robin"
 rows=[
-("G","SIT milestones"),
+("G","Academic milestones"),
 ("M","Form B submitted",D(2026,10,11),D(2026,10,11),R,"None","Form B_Guo_Zi_Qiang_Robin.docx"),
-("M","Interim report (Form E1) submitted",D(2026,12,6),D(2026,12,6),R,"Benchtest report; Tier 1 results","Form E1"),
+("M","Interim report (Form E1) submitted",D(2026,12,6),D(2026,12,6),R,"Test bench evaluation report; Tier 1 results","Form E1"),
 ("M","Interim Presentation",D(2027,1,31),D(2027,1,31),R,"Form E1; Beacon build progress","Interim Presentation"),
-("M","Final report (Form E2) submitted",D(2027,3,21),D(2027,3,21),R,"Deployed Beacon; benchtest report","Form E2"),
+("M","Final report (Form E2) submitted",D(2027,3,21),D(2027,3,21),R,"Deployed Beacon; test bench evaluation report","Form E2"),
 ("M","Capstone period ends",D(2027,3,31),D(2027,3,31),R,"Form E2","None (period boundary)"),
 ("M","Final Presentation (after the period)",D(2027,4,11),D(2027,4,11),R,"Form E2","Final Presentation"),
 ("T","Write Form E1 interim report",D(2026,11,23),D(2026,12,6),R,"Tier 1 results","Form E1 draft"),
@@ -27,8 +27,8 @@ rows=[
 ("T","Run Tier 1 evaluation (harmful-content and jailbreak checks)",D(2026,11,9),D(2026,11,27),R,"Harness; labelled test inputs","Raw results dataset"),
 ("T","Analyse results and compare guardrails",D(2026,11,16),D(2026,12,1),R,"Evaluation runs","Comparison tables"),
 ("M","Tier 1 evaluation results ready",D(2026,12,1),D(2026,12,1),R,"Evaluation runs","Results dataset"),
-("T","Write benchtest report",D(2026,12,1),D(2026,12,6),R,"Tier 1 results","Benchtest report"),
-("T","Tidy harness, dataset and documentation",D(2026,12,7),D(2026,12,18),R,"Benchtest report","Documented code and dataset"),
+("T","Write test bench evaluation report",D(2026,12,1),D(2026,12,6),R,"Tier 1 results","Test bench evaluation report"),
+("T","Tidy harness, dataset and documentation",D(2026,12,7),D(2026,12,18),R,"Test bench evaluation report","Documented code and dataset"),
 ("G","Workstream 2: Beacon"),
 ("T","Beacon design continues (low intensity)",D(2026,10,8),D(2026,11,30),R,"None","Design notes"),
 ("T","Build collection (sources, page reading, storage)",D(2026,12,1),D(2026,12,20),R,"Beacon design","Daily collection run"),
@@ -47,7 +47,7 @@ rows=[
 start=D(2026,10,8); nweeks=27; fc=8
 hdr=5
 ws["A1"]="Gantt chart: AI Security for Critical Infrastructure (Guardrail Evaluation Test Bench and Beacon)"; ws["A1"].font=Font(name=F,bold=True,size=14)
-ws["A2"]="Guo Zi Qiang Robin, SIT AAI4001 Capstone at LTA (CYAD). Capstone period 8 Oct 2026 to 31 Mar 2027. Weekly columns start on the date shown and run Thursday to Wednesday. See the Legend sheet."
+ws["A2"]="Guo Zi Qiang Robin, AAI4001 Capstone at LTA (CYAD). Capstone period 8 Oct 2026 to 31 Mar 2027. Weekly columns start on the date shown and run Thursday to Wednesday. See the Legend sheet."
 ws["A2"].font=Font(name=F,italic=True,size=9)
 ws["A3"]="Chart start date"; ws["B3"]=start; ws["B3"].number_format="d mmm yyyy"; ws["A3"].font=Font(name=F,bold=True,size=9); ws["B3"].font=Font(name=F,color="0000FF",size=9)
 heads=["Task","Type","Start","End","Owner","Depends on","Deliverable"]
