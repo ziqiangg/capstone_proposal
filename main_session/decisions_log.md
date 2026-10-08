@@ -26,3 +26,5 @@
 | 22 | 2026-10-08 | Sentinel data handling (benchtest-explorer Q5) | Form B states that only public or synthetic test prompts are sent to hosted services. No LTA-internal data | Conservative: Sentinel's limits are undisclosed |
 | 23 | 2026-10-08 | Free-cloud quotas (benchtest-explorer Q6) | Do not quote quota numbers. Say "free-tier cloud GPU credits" | Only third-party sources available |
 | 24 | 2026-10-08 | Llama Guard 4 gated access (benchtest-explorer Q7) | Access is requested at project start. Llama Guard 4 results are "subject to model access". Llama Guard 3 is the committed baseline | Under-claim |
+| 25 | 2026-10-08 | Figure 1 is based on the NeMo explainer (annex-builder) | Keep it. Its labels are generic. The caption must say that the diagram shows where guardrail checks can sit around an AI model, and that Tier 1 evaluates the input checks | The figure was reviewed visually |
+| 26 | 2026-10-08 | Figure 2 shows mapping as a core stage (annex-builder) | Keep it. The initial mapping is committed by 1 Feb (#14); trend detection is not shown | #14 |
