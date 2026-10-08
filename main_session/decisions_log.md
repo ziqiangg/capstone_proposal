@@ -28,3 +28,8 @@
 | 24 | 2026-10-08 | Llama Guard 4 gated access (benchtest-explorer Q7) | Access is requested at project start. Llama Guard 4 results are "subject to model access". Llama Guard 3 is the committed baseline | Under-claim |
 | 25 | 2026-10-08 | Figure 1 is based on the NeMo explainer (annex-builder) | Keep it. Its labels are generic. The caption must say that the diagram shows where guardrail checks can sit around an AI model, and that Tier 1 evaluates the input checks | The figure was reviewed visually |
 | 26 | 2026-10-08 | Figure 2 shows mapping as a core stage (annex-builder) | Keep it. The initial mapping is committed by 1 Feb (#14); trend detection is not shown | #14 |
+| 27 | 2026-10-08 | Name Daniel Chua in Industry Relevancy? (drafter Q1) | No. Say "a parallel LTA AI red-teaming capstone project". Do not name another student | Conservative; another person's details |
+| 28 | 2026-10-08 | Retrieval dates for undated web references (drafter Q2) | Use "Retrieved October 8, 2026" | APA 7 guidance for pages that change |
+| 29 | 2026-10-08 | Plain name for the benchtest report (drafter Q3) | "Test bench evaluation report" | Plain language |
+| 30 | 2026-10-08 | Third group for shared academic submissions (drafter Q4) | Accept, labelled "Academic submissions" | Keeps the two-workstream frame |
+| 31 | 2026-10-08 | Glossary and Annex A consistency (drafter Q5, routed to annex-builder) | (a) CYAD = Cyber Architecture & Development. (b) CI/CD = "continuous integration and continuous deployment" everywhere. (c) Drop the glossary entries the body does not use ("development", "LLM", "critical infrastructure"). (d) Annex A: "Test bench evaluation report", "Academic milestones". The drafter's "## Terms used" list is the glossary source | Consistency |
