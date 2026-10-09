@@ -38,6 +38,11 @@ Do not ask Robin questions. Settle them with the precedence ladder below, then l
 - **Output:**
   - Edit the docx in place, as tracked changes with author "Guo Zi Qiang Robin". Follow `template/Form B.docx` strictly.
   - Leave untouched: Supervisor Remarks, all Declarations, the Academic Supervisor contact number, and the Industry Supervisor designation. The last two are flagged as missing.
+  - **Word-compatibility rules** (both caused a "Word found unreadable content" error; see decision #43):
+    - Never put revision marks (`w:ins`, `w:del`, `w:pPrChange`, `w:rPrChange`) inside plain-text content controls (`w:sdt` with `w:text`). Write the answer text there as plain, uniformly formatted runs. Tracked changes are fine elsewhere, e.g. in the annexes.
+    - Repack a .docx with Python `zipfile`: `[Content_Types].xml` first, no directory entries. Do not use `zip -r`.
+    - `validate.py` and LibreOffice do not catch either problem.
+  - Robin's latest edited version, saved from Word, is the base for any further edits.
 - **Gantt:** a detailed `Gantt_Guo_Zi_Qiang_Robin.xlsx` at the repository root, plus an abstracted month-level Word table in Annex A.
 - **Git:** commit and push to `claude/affectionate-knuth-gfiu70`. No PR.
 
